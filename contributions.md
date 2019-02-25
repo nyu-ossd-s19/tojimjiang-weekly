@@ -20,6 +20,6 @@ Replace the first row with your contribution.
 
 | Week #       | Contribution (Link)  | Type  | Description | 
 |---|:---|:---|:---| 
-|  2   | link to my contribution    | course website    |   I fixed a broken link.    |
+|  3   | [https://github.com/nyu-ossd-s19/candela-team-10/issues/2](https://github.com/nyu-ossd-s19/candela-team-10/issues/2)   | Canedla Extension   |   Provide Alternative JS/HTML/CSS Method    |
 |     |     |     |      |
 |     |     |     |      |
