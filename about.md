@@ -8,7 +8,7 @@ Some information about you!
 
 ### More Information
 
-[See my site here.](www.tojimjiang.com)
+[See my site here.](https://www.tojimjiang.com)
 
 Just kidding. I am a technologist that wants to sharpen my tool kit, especially being able to deploy projects from scratch. I am already stable with computer hardware and networking. But still want to sharpen my programming chops.
 
