@@ -20,5 +20,5 @@ Replace the first row with your contribution.
 
 | Week #       | Contribution (Link)  | Type  | Description | 
 |---|:---|:---|:---| 
-|  5   |  [Bootstrap](https://github.com/twbs/bootstrap/pull/28406)   |  Documentation  |    Fix a page of documentation for better UI design guidance.  |
+|  5   |  [Pull Request](https://github.com/twbs/bootstrap/pull/28406)   |  Bootstrap  |    Fix documentation to provide a guidance that incorperates better UI.   |
 |     |     |     |      |
