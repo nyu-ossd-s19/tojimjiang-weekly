@@ -25,3 +25,5 @@ Replace the first row with your contribution.
 |  9   |  [Issue Report](https://github.com/joannakl/ossd_s19/issues/14)   |  Course Website   |  Identify hosting issue on NYU servers, being different from the version currently being served live.    |
 |  10   |  [Copywriting Editing](https://en.wikipedia.org/w/index.php?title=Newegg&oldid=893512219)   |  Wikipedia   |  Provide a better summary of an event for a page's history.    |
 |  10   |  [Content Contribution](https://en.wikipedia.org/w/index.php?title=TSMC&oldid=893516723)   |  Wikipedia   |  Update to current technology, and fix styling for a page.    |
+|  11   |  [Provide Citation](https://en.wikipedia.org/w/index.php?title=Whiskey_Lake_(microarchitecture)&oldid=894468653)   |  Wikipedia   |  Provide missing citation, and corrections as necessary.    |
+|  11   |  [Content Contribution](https://en.wikipedia.org/w/index.php?title=Qualcomm_Snapdragon&oldid=894473834)   |  Wikipedia   |  Update to current technology products.    |
