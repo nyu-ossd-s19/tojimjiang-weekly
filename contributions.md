@@ -27,3 +27,5 @@ Replace the first row with your contribution.
 |  10   |  [Content Contribution](https://en.wikipedia.org/w/index.php?title=TSMC&oldid=893516723)   |  Wikipedia   |  Update to current technology, and fix styling for a page.    |
 |  11   |  [Provide Citation](https://en.wikipedia.org/w/index.php?title=Whiskey_Lake_(microarchitecture)&oldid=894468653)   |  Wikipedia   |  Provide missing citation, and corrections as necessary.    |
 |  11   |  [Content Contribution](https://en.wikipedia.org/w/index.php?title=Qualcomm_Snapdragon&oldid=894473834)   |  Wikipedia   |  Update to current technology products.    |
+|  12   |  [Content Correction](https://en.wikipedia.org/w/index.php?title=Courant_Institute_of_Mathematical_Sciences&oldid=895627987)   |  Wikipedia   |  Update the article's listing of locations to be current, with the organization website.   |
+|  12   |  [Content Correction](https://en.wikipedia.org/w/index.php?title=Fairchild_Semiconductor&oldid=895629856)   |  Wikipedia   |  Update the article's info box based on issues based on recent events.    |
