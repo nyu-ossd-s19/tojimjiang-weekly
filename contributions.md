@@ -32,5 +32,7 @@ Replace the first row with your contribution.
 |  13   |  [Content Correction](https://en.wikipedia.org/w/index.php?title=Alibaba_Group&oldid=896816360)   |  Wikipedia   |  Update the article's info box since it had zeros for multiple values.    |
 |  13   |  [Provide Citation](https://en.wikipedia.org/w/index.php?title=Graphics_processing_unit&oldid=896817256)   |  Wikipedia   |  Provide citation for a statement in article.    |
 |  13   |  [Content Correction](https://en.wikipedia.org/w/index.php?title=Template:Solid-state_drive&oldid=896818766)   |  Wikipedia   |  Update template box based on recent events.   |
-|  11   |  [Content Contribution](https://en.wikipedia.org/w/index.php?title=Multi-level_cell&oldid=896820482)   |  Wikipedia   |  Update to current technology products, and some editing to reduce level of bias, with sources.   |
+|  13   |  [Content Contribution](https://en.wikipedia.org/w/index.php?title=Multi-level_cell&oldid=896820482)   |  Wikipedia   |  Update to current technology products, and some editing to reduce level of bias, with sources.   |
 |  13   |  [Link Fix](https://en.wikipedia.org/w/index.php?title=AMOLED&oldid=896823370)   |  Wikipedia   |  Insert a link in page element for continuity with other entries on page.    |
+|  13   |  [Content Contribution](https://en.wikipedia.org/w/index.php?title=Template:AMD_Ryzen_2000_Series&oldid=896826948)   |  Wikipedia   |  Provide part availablity for products perviously unknown.   |
+|  13   |  [Content Contribution](https://en.wikipedia.org/w/index.php?title=Template:AMD_Ryzen_Desktop_Processor_with_Radeon_Vega_Graphics&oldid=896827253)   |  Wikipedia   |  Provide part availablity for products perviously unknown.   |
